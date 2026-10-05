@@ -44,10 +44,6 @@ An interactive Power BI dashboard was created to help understand business perfor
   - Sales by Customer Segment
   - Quantity and Profit Margi KPIs
 
-    ### Dashboard Preview
-
-    ![Retail Sales Dashboard]
-
    ## Skills Demonstrated 
    - Data Cleaning
    - Excel Data Analysis
